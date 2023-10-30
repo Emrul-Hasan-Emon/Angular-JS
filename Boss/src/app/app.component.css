@@ -1,0 +1,53 @@
+.contianer {
+    width: 70%;
+    height: 80vh;
+}
+
+div {
+    border-style: solid;
+    border-radius: 15px;
+}
+
+/* Third Div Tag */
+.div3 {
+    /* background-color: rgb(216, 216, 56); */
+    border-color: rgb(20, 236, 20);
+    border-style: solid;
+    margin: 10px;
+    height: 25vh;
+    border-radius: 15px;
+    text-align: center;
+}
+.div31 {
+    /* background-color: rgb(47, 68, 255); */
+    height: 12vh;
+    border-color: rgb(20, 236, 20);
+}
+.div32 {
+    /* background-color: rgb(47, 68, 255); */
+    height: 12vh;
+    border-color: rgb(20, 236, 20);
+}
+
+.inp {
+    float: left;
+    margin: 5px;
+    margin-top: 20px;
+    margin-left: 200px;
+    height: 7vh;
+    width: 40%;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+.sub {
+    float: right;
+    margin: 5px;
+    margin-top: 20px;
+    margin-right: 500px;
+    height: 7vh;
+    border-radius: 10px;
+    width: 10%;
+    font-size: 50px;
+    background-color: rgb(199, 199, 223);
+}
