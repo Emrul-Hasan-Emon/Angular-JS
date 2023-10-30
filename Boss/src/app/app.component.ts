@@ -7,6 +7,7 @@ import { NewserviceService } from './newservice.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  /*
   componentOneHeading: string = "ComponentOne";
   componentTwoHeading: string = "ComponentTwo";
   componentThreeHeading: string = "ComponentThree";
@@ -25,4 +26,5 @@ export class AppComponent {
     this.componentTwoHeading = this.service.getData();
     this.componentOneHeading = this.service.getData();
   }
+  */
 }
